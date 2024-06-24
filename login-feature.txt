@@ -1,1 +1,2 @@
-1. message là "M1"
+1. message là "M1"git
+2. Commit M2
